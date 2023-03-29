@@ -1,0 +1,4 @@
+qiskit==0.28.0
+tensorflow_datasets
+scikit-learn
+pandas
